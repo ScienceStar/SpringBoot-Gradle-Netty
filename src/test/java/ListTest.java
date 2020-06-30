@@ -34,7 +34,6 @@ public class ListTest {
             String str = arrayList.get(i);
         }
         System.out.println("arrayList查询数据花费了:"+(System.currentTimeMillis()-begin3)+"ms");
-
     }
 
     private static void addLinkedList(){
